@@ -1,5 +1,5 @@
 # lesson3
-https://lenovikov.github.io/lesson3/.
+https://lenovikov.github.io/lesson-3/
 
 # Домашнее задание к уроку 3
 
